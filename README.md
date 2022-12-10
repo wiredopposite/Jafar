@@ -39,5 +39,4 @@ Jafar is free and open source. Please respect the licenses available in their re
 | 1 | PLCC-32-AT-SMT (Optional) | PLCC SOCKET 32P SMT | CN1 | https://www.digikey.com/short/vrhtcrp7 |
 | 1 | 0805 Resistor ~100ohm | around 100ohm 1/8W 0805 resistor | R1| https://www.digikey.com/short/47m59f |
 | 1 | 0805 LED| any color 0805 LED| LED1 |https://www.digikey.com/short/47m5b2 |
-| 1 | IRLML6246TRPBF| N-Channel 20V MOSFET | T1 | https://www.digikey.com/short/47m5zw |
 | 1 | 2x6 female pinheader| 2x6 header| SV1 | https://www.digikey.com/short/47m550 |
