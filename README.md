@@ -33,7 +33,7 @@ Jafar is free and open source. Please respect the licenses available in their re
     
 # Pre-flashing the SST49LF080A
 
-Program with an XBlastOS image (crcwell.bin), set Region to flash and buffer to C0000.
+Program with an XBlastOS image (crcwell.bin), set region to flash and buffer to C0000.
 
 ![Programming XBlastOS](https://github.com/wiredopposite/Jafar/blob/main/images/sst_programming.jpg?raw=true)
 
