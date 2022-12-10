@@ -40,8 +40,8 @@ Program with an XBlastOS image (crcwell.bin), set region to flash and buffer to 
 # BOM
 | Qty | Value/Model | Description | Marking | URL (Passive components provided as sample only) |
 | --- | --- | --- | --- | --- |
-| 1 | LC4032V-75TN44CTQFP44 | Mach 4000 series CPLD 32MC | U1 | https://www.digikey.com/short/47m5hh |
-| 1 | SST49LF080A-33-4C-NHEPLCC32_NH_SST_MCH- | PLCC32 LPC flash | U2 | https://www.digikey.com/short/47m54w |
+| 1 | LC4032V-75TN44CTQFP44 (LC4032V-75TN44-10I) | Mach 4000 series CPLD 32MC | U1 | https://www.digikey.com/short/47m5hh |
+| 1 | SST49LF080A | PLCC32 LPC flash | U2 | https://www.digikey.com/short/47m54w |
 | 1 | PLCC-32-AT-SMT (Optional) | PLCC SOCKET 32P SMT | CN1 | https://www.digikey.com/short/vrhtcrp7 |
 | 1 | 0805 Resistor ~100ohm | around 100ohm 1/8W 0805 resistor | R1| https://www.digikey.com/short/47m59f |
 | 1 | 0805 LED| any color 0805 LED| LED1 |https://www.digikey.com/short/47m5b2 |
