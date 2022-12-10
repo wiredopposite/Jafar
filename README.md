@@ -15,7 +15,7 @@ Jafar is free and open source. Please respect the licenses available in their re
 
 # CPLD Instructions
 
-1.  Connect a JTAG programmer to the JTAG pins on the chip.
+1.  Connect a JTAG programmer to the JTAG points on the chip.
     
 2.  Make sure to apply 3.3V power to the Jafar board. This can be done by plugging it into the LPC port on the Xbox, an external power supply, or a JTAG programmer that can supply power.  A modified Lattice USB programmer or FlashCat are two examples of programmers that can supply power.
     
