@@ -13,7 +13,7 @@ Jafar is free and open source. Please respect the licenses available in their re
 -   Hardware is shared under the  [CERN OHL version 1.2.](https://ohwr.org/cernohl).
 -   Firmware is shared under  [GPLv3](https://www.gnu.org/licenses/quick-guide-gplv3.en.html).
 
-# CPLD Instructions
+# Instructions
 
 1.  Connect a JTAG programmer to the JTAG points on the chip.
     
