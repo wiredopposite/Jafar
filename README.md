@@ -13,7 +13,7 @@ Jafar is free and open source. Please respect the licenses available in their re
 -   Hardware is shared under the  [CERN OHL version 1.2.](https://ohwr.org/cernohl).
 -   Firmware is shared under  [GPLv3](https://www.gnu.org/licenses/quick-guide-gplv3.en.html).
 
-# Instructions
+# CPLD Instructions
 
 1.  Connect a JTAG programmer to the JTAG pins shown below.
     
@@ -31,6 +31,12 @@ Jafar is free and open source. Please respect the licenses available in their re
         
 6.  Install onto the LPC header in your Xbox. You can either ground the D0 points or attach D0 to the pad on the Jafar chip to drive it correctly.
     
+# Flashing the SST49LF080A
+
+Program with an XBlastOS image (crcwell.bin), set Region to flash and buffer to C0000.
+
+![Programming XBlastOS](https://github.com/wiredopposite/Jafar/blob/main/images/sst_programming.jpg?raw=true)
+
 # BOM
 | Qty | Value/Model | Description | Marking | URL (Passive components provided as sample only) |
 | --- | --- | --- | --- | --- |
