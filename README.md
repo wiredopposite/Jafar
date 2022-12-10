@@ -31,7 +31,7 @@ Jafar is free and open source. Please respect the licenses available in their re
         
 6.  Install onto the LPC header in your Xbox. You can either ground the D0 points or attach D0 to the pad on the Jafar chip to drive it correctly.
     
-# Flashing the SST49LF080A
+# Pre-flashing the SST49LF080A
 
 Program with an XBlastOS image (crcwell.bin), set Region to flash and buffer to C0000.
 
