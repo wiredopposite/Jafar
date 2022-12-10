@@ -2,7 +2,7 @@
 # Jafar
 ![Jafar PCB](https://github.com/wiredopposite/Jafar/blob/main/images/Jafar.jpg?raw=true)
 
-This is a custom board reimagination of the Aladdin chip for the Original Xbox. gerbers are available [here](https://github.com/Kekule-OXC/Jafar/blob/main/Gerbers/jafar_gerber_v1.zip)
+This is a custom board reimagination of the Aladdin chip for the Original Xbox. gerbers are available [here](Gerber_PCB_jafar_2022-12-09.zip)
 
 This VHDL was written by PsychoChewbacca and released with his AladdinXBlast repository
 
